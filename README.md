@@ -1,4 +1,4 @@
-# Boling
+# not boling anymore
 A-Tech School Project
 
 Bowling Game for Final Project of CSIII H
@@ -10,3 +10,4 @@ Two sliders that indicate power and curve to launch bowling ball toward pins
 Game animation consists of a two dimensional sideways bowling alley
 same animation is made each throw
 
+# all of this is fake and wrong
