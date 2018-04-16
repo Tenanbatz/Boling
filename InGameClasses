@@ -1,0 +1,31 @@
+Classes // note, lv start at 5 with 20 points
+--------------
+Berserker: 
+Health - 9
+Endurance - 9
+Speed - 2
+Magic - 0
+
+Caster: 
+Health - 2
+Endurance - 3
+Speed - 8
+Magic - 7
+
+Assassin: 
+Health - 2
+Endurance - 5
+speed - 9
+Magic - 7
+
+Archer: 
+Health - 8
+Endurance - 4
+Speed - 7
+Magic - 1
+
+Knight: 
+Health - 5
+Endurance - 5
+Speed - 5
+Magic - 5
