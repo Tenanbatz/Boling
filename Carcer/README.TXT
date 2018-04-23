@@ -8,6 +8,5 @@ PROJECT TITLE: Carcer
 PURPOSE OF PROJECT: CS III Final Project
 VERSION or DATE: 3/16/18 0.0.0
 HOW TO START THIS PROJECT: 
-AUTHORS: Daniel Tena, Kathy Vuong, Cameron Tabion
+AUTHORS: Daniel Tena, Kevin Sweitzer, Cameron Tabion
 USER INSTRUCTIONS:
-Start the program and follow in game instructions.
