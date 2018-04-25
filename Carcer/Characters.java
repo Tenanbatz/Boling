@@ -8,10 +8,15 @@ import java.util.*;
  */
 public class Characters
 {
+    //Variablen gehen hier
     private Scanner user;
+    private stats stats;
+    
     public Characters()
     {
+        //Initialisierung
         user = new Scanner(System.in);
+        stats = new stats();
     }
     
     public void Characters()
@@ -29,26 +34,28 @@ public class Characters
             System.out.println("Choice: ");
             classChoice = user.nextInt();
             String character;
-
+            
+            //Abhängig von der gewählten Klasse wird eine andere Methode aufgerufen.
+            //NOTE THAT I STILL HAVE TO DO ALL CLASS METHODS OTHER THAN KNIGHT CAUSE LAZY
             if(classChoice == 1)
             {
-                break;
+                stats.getBerserker();
             }
             else if(classChoice == 2)
             {
-                break;
+                stats.getCaster();
             }
             else if(classChoice == 3)
             {
-                break;
+                stats.getAssassin();
             }
             else if(classChoice == 4)
             {
-                break;
+                stats.getArcher();
             }
             else if(classChoice == 5)
             {
-                break;
+                stats.getKnight();
             }
             else
             {
@@ -57,4 +64,5 @@ public class Characters
         }
     }
     
-}
+}//Ende des Programms
+
