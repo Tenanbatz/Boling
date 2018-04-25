@@ -5,8 +5,7 @@ all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Carcer
-PURPOSE OF PROJECT: CS III Final Project
-VERSION or DATE: 3/16/18 0.0.0
-HOW TO START THIS PROJECT: 
+PROJECT: CS III Final Project
+DATE: 4/25/18 
 AUTHORS: Daniel Tena, Katherine Vuong, Cameron Tabion
-USER INSTRUCTIONS:
+USER INSTRUCTIONS: Read in game instructions.
