@@ -1,8 +1,8 @@
 
 /**
- * Write a description of class User here.
+ * This will be where we introduce and put story things
  * 
- * @author (your name) 
+ * @author (Daniel Tena) 
  * @version (a version number or a date)
  */
 public class User
