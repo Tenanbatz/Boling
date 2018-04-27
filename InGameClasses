@@ -7,9 +7,9 @@ Speed - 2
 Magic - 0
 
 Attacks:
-Smash
-Bash
-Dash
+Smash - 5
+Bash - 5
+Dash - 5
 
 Caster: 
 Health - 2
@@ -18,9 +18,9 @@ Speed - 8
 Magic - 7
 
 Attacks:
-Fireball
-Shock
-Sickle
+Fireball - 2
+Shock - 1
+Sickle - 2
 
 Assassin: 
 Health - 2
@@ -29,9 +29,9 @@ speed - 9
 Magic - 7
 
 Attacks:
-One Shot
-Two Shot
-Three Shot
+One Shot - 10
+Two Shot - 5
+Three Shot - 3
 
 Archer: 
 Health - 8
@@ -40,9 +40,9 @@ Speed - 7
 Magic - 1
 
 Attacks:
-Arrow
-Hindsight
-Dagger
+Arrow - 2
+Hindsight - +1 Speed
+Dagger- 1
 
 Knight: 
 Health - 5
@@ -51,9 +51,9 @@ Speed - 5
 Magic - 5
 
 Attacks:
-Slash
-Strike
-Le jeu de la hache
+Slash - 4
+Strike - 3
+Le jeu de la hache - 5
 
 
 
