@@ -39,4 +39,3 @@ Magic - 5
 
 We will put the base stats in a file, character stats be put to a file.
 Monster/enemies will be inherited/interface
-Abstract will be stats
