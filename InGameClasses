@@ -6,11 +6,21 @@ Endurance - 9
 Speed - 2
 Magic - 0
 
+Attacks:
+Smash
+Bash
+Dash
+
 Caster: 
 Health - 2
 Endurance - 3
 Speed - 8
 Magic - 7
+
+Attacks:
+Fireball
+Shock
+Sickle
 
 Assassin: 
 Health - 2
@@ -18,11 +28,21 @@ Endurance - 5
 speed - 9
 Magic - 7
 
+Attacks:
+One Shot
+Two Shot
+Three Shot
+
 Archer: 
 Health - 8
 Endurance - 4
 Speed - 7
 Magic - 1
+
+Attacks:
+Arrow
+Hindsight
+Dagger
 
 Knight: 
 Health - 5
@@ -30,7 +50,10 @@ Endurance - 5
 Speed - 5
 Magic - 5
 
-
+Attacks:
+Slash
+Strike
+Le jeu de la hache
 
 
 
