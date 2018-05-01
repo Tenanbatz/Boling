@@ -1,9 +1,7 @@
-- You are an adventurer who enters the Carcer dungeon. All who enter Carcer Dungeon have never returned, they say men go mad in the endless rooms it holds. There is no return and the only way out is death.  
+You are an adventurer who enters the Carcer dungeon. All who enter Carcer Dungeon have never returned, they say men go mad in the endless rooms it holds. There is no return and the only way out is death.  
 
 Random Dungeon Generator Mechanic
-Dungeons are made by levels
-Num enemies - Randomly generate numbers equal to or less to the character level.
-(Add other shit if you want)
+A random amount of room are created within each floor, each room contains an enemy you must fight to continue down the dungeon. 
 
 Leveling Mechanic
 Just a normal rpg XP leveling mechanic
