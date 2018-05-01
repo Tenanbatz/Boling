@@ -14,3 +14,5 @@ Create an array full of all the skills
 (Add other shit if you want)
 
 Combat 
+Turn based combat with 1 on 1 fighting.
+Skills and buffs are dependent to classes. 
