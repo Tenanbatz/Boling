@@ -1,0 +1,64 @@
+Classes // note, lv start at 5 with 20 points
+--------------
+Berserker: 
+Health - 9
+Endurance - 9
+Speed - 2
+Magic - 0
+
+Attacks:
+Smash - 5
+Bash - 5
+Dash - 5
+
+Caster: 
+Health - 2
+Endurance - 3
+Speed - 8
+Magic - 7
+
+Attacks:
+Fireball - 2
+Shock - 1
+Sickle - 2
+
+Assassin: 
+Health - 2
+Endurance - 5
+speed - 9
+Magic - 7
+
+Attacks:
+One Shot - 10
+Two Shot - 5
+Three Shot - 3
+
+Archer: 
+Health - 8
+Endurance - 4
+Speed - 7
+Magic - 1
+
+Attacks:
+Arrow - 2
+Hindsight - +1 Speed
+Dagger- 1
+
+Knight: 
+Health - 5
+Endurance - 5
+Speed - 5
+Magic - 5
+
+Attacks:
+Slash - 4
+Strike - 3
+Le jeu de la hache - 5
+
+
+
+
+
+
+We will put the base stats in a file, character stats be put to a file.
+Monster/enemies will be inherited/interface

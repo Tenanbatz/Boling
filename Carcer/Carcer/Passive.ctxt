@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Passive
+comment0.text=\r\n\ Certain\ monsters\ have\ passives\r\n\r\n\ @author\ (Kathy\ Vuong)\r\n\ @version\ (4/26/18)\r\n
+comment1.params=
+comment1.target=void\ passive()
+comment1.text=\r\n\ Method\ passive\ applies\ passive\r\n
+comment2.params=
+comment2.target=int\ getPassiveWeight()
+comment2.text=\r\n\ Method\ getPassiveWeight\r\n\r\n\ @return\ passiveWeight\r\n
+comment3.params=weight
+comment3.target=void\ setPassiveWeight(int)
+comment3.text=\r\n\ Method\ setPassiveWeight\r\n\r\n\ @param\ weight\r\n
+numComments=4

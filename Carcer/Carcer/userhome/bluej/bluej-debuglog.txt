@@ -1,0 +1,22 @@
+BlueJ run started: Fri May 11 02:14:58 PDT 2018
+BlueJ version 4.1.0
+Java version 1.8.0_131
+Virtual machine: Java HotSpot(TM) Client VM 25.131-b11 (Oracle Corporation)
+Running on: Windows 10 10.0 (x86)
+Java Home: C:\Users\Soraen\Desktop\Other Stuff\bluej\jdk\jre
+----
+Detected language "english" based on iso639-2 code "eng"
+Opening project: E:\RPEGJ-master\Carcer
+1526030100271: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+May 11, 2018 2:15:09 AM javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Users/Soraen/Desktop/Other%20Stuff/bluej/jdk/jre/lib/ext/jfxrt.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+May 11, 2018 2:19:01 AM javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Users/Soraen/Desktop/Other%20Stuff/bluej/jdk/jre/lib/ext/jfxrt.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+1526030473958: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1526030502823: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.

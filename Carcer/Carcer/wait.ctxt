@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=wait
+comment0.text=\r\n\ wait\ Function\r\n\r\n\ @author\ (Kathy\ Vuong)\r\n\ @version\ (Something)\r\n
+comment1.params=time
+comment1.target=void\ w(int)
+comment1.text=\r\n\ Method\ w\ allows\ for\ pausing\r\n\r\n\ @param\ time\ -\ amt\ of\ time\ to\ pause\r\n
+numComments=2

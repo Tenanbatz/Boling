@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Combat
+comment0.text=\r\n\ Combat\ Class\ controls\ the\ combat\ system\r\n\ \r\n\ @author\ (Cameron\ Tabion)\ \r\n\ @version\ (Something)\r\n
+comment1.params=charName
+comment1.target=Combat(java.lang.String)
+comment1.text=\r\n\ Combat\ Constructor\r\n\r\n\ @param\ charName\ -\ name\ of\ character\r\n
+comment2.params=
+comment2.target=void\ getStats()
+comment2.text=\r\n\ Method\ getStats\ gets\ stats\ from\ character\ file\r\n
+comment3.params=
+comment3.target=void\ start()
+comment3.text=\r\n\ Method\ start\ outlines\ combat\ flow\r\n
+comment4.params=
+comment4.target=Monsters\ chooseMonster()
+comment4.text=\r\n\ Method\ chooseMonster\ randomly\ determines\ monster\r\n\r\n\ @return\ mon\ -\ the\ type\ of\ monster\r\n
+comment5.params=
+comment5.target=void\ startBattle()
+comment5.text=\r\n\ Method\ startBattle\ starts\ the\ main\ battle\ process\r\n
+comment6.params=
+comment6.target=void\ endBattle()
+comment6.text=\r\n\ Method\ endBattle\ ends\ the\ battle\ and\ controls\ other\ conditions\r\n
+comment7.params=
+comment7.target=void\ save()
+comment7.text=\r\n\ Method\ save\ saves\ the\ current\ data\ to\ the\ character\ file\r\n
+numComments=8

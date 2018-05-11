@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Werewolf
+comment0.text=\r\n\ Werewolf\ Class\ defines\ werewolf\ stats\r\n\r\n\ @author\ (Daniel\ Tena)\r\n\ @version\ (Something)\r\n
+comment1.params=playerLVL
+comment1.target=Werewolf(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Werewolf\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Method\ getName\r\n\r\n\ @return\ name\r\n
+comment3.params=
+comment3.target=double\ getHealth()
+comment3.text=\r\n\ Method\ getHealth\r\n\r\n\ @return\ health\r\n
+comment4.params=
+comment4.target=double\ attack()
+comment4.text=\r\n\ Method\ attack\r\n\r\n\ @return\ attack\r\n
+comment5.params=
+comment5.target=double\ getEndurance()
+comment5.text=\r\n\ Method\ getEndurance\r\n\r\n\ @return\ endurance\r\n
+comment6.params=
+comment6.target=double\ getSpeed()
+comment6.text=\r\n\ Method\ getSpeed\r\n\r\n\ @return\ speed\r\n
+comment7.params=
+comment7.target=double\ getMagic()
+comment7.text=\r\n\ Method\ getMagic\r\n\r\n\ @return\ magic\r\n
+numComments=8

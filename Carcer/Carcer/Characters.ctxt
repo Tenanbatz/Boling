@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Characters
+comment0.text=\r\n\ Characters\ handles\ continuing\ or\ creating\ new\ characters\r\n\ \r\n\ @author\ (Cameron\ Tabion)\ \r\n\ @version\ (4/18/18)\r\n
+comment1.params=
+comment1.target=Characters()
+comment1.text=\r\n\ Characters\ Constructor\r\n
+comment2.params=
+comment2.target=void\ getStats()
+comment2.text=\r\n\ Method\ getStats\ loads\ stats\ from\ file\r\n
+comment3.params=
+comment3.target=java.lang.String\ Characters()
+comment3.text=\r\n\ Method\ Characters\ prompts\ user\ to\ create\ character\ and\ start\ game\r\n\r\n\ @return\ name\ -\ name\ of\ the\ character\r\n
+comment4.params=
+comment4.target=java.lang.String\ Continue()
+comment4.text=\r\n\ Method\ Continue\ looks\ for\ character\ file\ and\ starts\ game\r\n\r\n\ @return\ fileName\ -\ name\ of\ the\ character\ file\r\n
+numComments=5
