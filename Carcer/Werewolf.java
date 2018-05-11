@@ -1,33 +1,90 @@
 
 /**
- * Write a description of class Werewolf here.
+ * Werewolf Class defines werewolf stats
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Daniel Tena)
+ * @version (Something)
  */
-public class Werewolf extends Monster
+public class Werewolf extends Monsters
 {
-    // instance variables - replace the example below with your own
-    private int x;
-
+    private String name;
+    private double health;
+    private double attack;
+    private double endurance;
+    private double speed;
+    private double magic;
+    
     /**
      * Constructor for objects of class Werewolf
      */
-    public Werewolf()
+    public Werewolf(int playerLVL)
     {
         // initialise instance variables
-        x = 0;
-    }
-
+        name = "Werewolf";
+        health = 3 * (1 + (playerLVL * 0.1));
+        attack = 3 * (1 + (playerLVL * 0.1));
+        endurance = 1 * (1 + (playerLVL * 0.1));
+        speed = 5 * (1 + (playerLVL * 0.1));
+        magic = 3 * (1 + (playerLVL * 0.1));
+    }// Ends the Werewolf Constructor
+    
     /**
-     * An example of a method - replace this comment with your own
+     * Method getName
      *
-     * @param  y  a sample parameter for a method
-     * @return    the sum of x and y
+     * @return name
      */
-    public int sampleMethod(int y)
+    public String getName()
     {
-        // put your code here
-        return x + y;
-    }
-}
+        return name;
+    }// Ends the getName Method
+    
+    /**
+     * Method getHealth
+     *
+     * @return health
+     */
+    public double getHealth()
+    {
+        return health;
+    }// Ends the getHealth Method
+    
+    /**
+     * Method attack
+     *
+     * @return attack
+     */
+    public double attack()
+    {
+        return attack;
+    }// Ends the attack Method
+    
+    /**
+     * Method getEndurance
+     *
+     * @return endurance
+     */
+    public double getEndurance()
+    {
+        return endurance;
+    }// Ends the getEndurance Class
+    
+    /**
+     * Method getSpeed
+     *
+     * @return speed
+     */
+    public double getSpeed()
+    {
+        return speed;
+    }// Ends the getSpeed Method
+    
+    /**
+     * Method getMagic
+     *
+     * @return magic
+     */
+    public double getMagic()
+    {
+        return magic;
+    }// Ends the getMagic Method
+}// Ends the Werewolf Class

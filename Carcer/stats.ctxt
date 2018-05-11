@@ -1,4 +1,10 @@
 #BlueJ class context
-comment0.params=
-comment0.target=void\ getKnight()
-numComments=1
+comment0.target=stats
+comment0.text=\r\n\ Gets\ class\ stats\ and\ creates\ a\ character\ file\r\n\ \r\n\ @author\ (Cameron\ Tabion)\ \r\n\ @version\ (4/19/18)\r\n
+comment1.params=
+comment1.target=stats()
+comment1.text=\r\n\ stats\ Constructor\r\n
+comment2.params=name\ className
+comment2.target=void\ getStats(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Method\ getStats\ gets\ class\ stats\ and\ saves\ it\ to\ a\ character\ file\r\n\r\n\ @param\ name\ -\ character\ name\r\n\ @param\ className\ -\ name\ of\ class\r\n
+numComments=3
