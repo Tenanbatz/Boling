@@ -1,4 +1,16 @@
 #BlueJ class context
-comment0.params=
-comment0.target=User()
-numComments=1
+comment0.target=User
+comment0.text=\r\n\ Controls\ story\ and\ runs\ combat\r\n\ \r\n\ @author\ (Cameron\ Tabion)\ \r\n\ @version\ (Something)\r\n
+comment1.params=charName
+comment1.target=User(java.lang.String)
+comment1.text=\r\n\ User\ Constructor\r\n\r\n\ @param\ charName\ -\ name\ of\ character\r\n
+comment2.params=
+comment2.target=void\ getStats()
+comment2.text=\r\n\ Method\ getStats\ gets\ stats\ from\ character\ file\r\n
+comment3.params=
+comment3.target=void\ intro()
+comment3.text=\r\n\ Method\ intro\ displays\ the\ introduction\ text\r\n
+comment4.params=
+comment4.target=void\ start()
+comment4.text=\r\n\ Method\ start\ starts\ the\ actual\ game\r\n
+numComments=5

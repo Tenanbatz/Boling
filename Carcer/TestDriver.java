@@ -1,10 +1,19 @@
+/**
+ * Driver
+ * 
+ * @author (Daniel Tena) 
+ * @version (4/18/18)
+ */
 public class TestDriver
 {
-    public static void main(String[] args)
+    /**
+     * Method main
+     *
+     * @param args
+     */
+    public static void main(String[] args) throws InterruptedException
     {
-        
-        Main x = new Main();
-        x.getMenu();
-        
-    }
-}
+        Main main = new Main();
+        main.menu();
+    }// Ends the main Method
+}// Ends the TestDriver Driver

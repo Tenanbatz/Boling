@@ -1,33 +1,52 @@
 
 /**
- * Write a description of class Monsters here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Monsters Class defines monster behavior
+ *
+ * @author (Daniel Tena)
+ * @version (Something)
  */
-public class Monsters
+public abstract class Monsters
 {
     // instance variables - replace the example below with your own
-    private int x;
+    /**
+     * Method getName
+     *
+     * @return name
+     */
+    public abstract String getName(); // Ends the getName Method
 
     /**
-     * Constructor for objects of class Monsters
+     * Method getHealth
+     *
+     * @return health
      */
-    public Monsters()
-    {
-        // initialise instance variables
-        x = 0;
-    }
+    public abstract double getHealth(); // Ends the getHealth Method
 
     /**
-     * An example of a method - replace this comment with your own
-     * 
-     * @param  y   a sample parameter for a method
-     * @return     the sum of x and y 
+     * Method attack
+     *
+     * @return attack
      */
-    public int sampleMethod(int y)
-    {
-        // put your code here
-        return x + y;
-    }
-}
+    public abstract double attack(); // Ends the attack Method
+
+    /**
+     * Method getEndurance
+     *
+     * @return endurance
+     */
+    public abstract double getEndurance(); // Ends the getEndurance Method
+
+    /**
+     * Method getSpeed
+     *
+     * @return speed
+     */
+    public abstract double getSpeed(); // Ends the getSpeed Method
+
+    /**
+     * Method getMagic
+     *
+     * @return magic
+     */
+    public abstract double getMagic(); // Ends the getMagic Method
+}// Ends the Monsters Class

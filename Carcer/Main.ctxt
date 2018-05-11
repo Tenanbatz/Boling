@@ -1,8 +1,10 @@
 #BlueJ class context
-comment0.params=
-comment0.target=Main()
+comment0.target=Main
+comment0.text=\r\n\ Runs\ all\ the\ classes\ through\ here\r\n\ \r\n\ @author\ (Daniel\ Tena)\ \r\n\ @version\ (4/18/18)\r\n
 comment1.params=
-comment1.target=int\ getMenu()
+comment1.target=Main()
+comment1.text=\r\n\ Main\ Constructor\r\n
 comment2.params=
 comment2.target=void\ menu()
+comment2.text=\r\n\ Method\ menu\ displays\ the\ main\ menu\r\n
 numComments=3
